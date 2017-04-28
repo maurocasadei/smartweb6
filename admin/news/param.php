@@ -1,0 +1,11 @@
+<?php
+	$nometabella="news";
+	$titolo="newstitolo";
+	$sottotitolo="newssottotitolo";
+	$campoID="nw_IDNews";
+	$prefix="nw_";
+	$campoorderby="nw_ordine";
+  $insertmodal=true;
+  $sect="news";
+  $nomeforeignkey="mainlist";
+?>

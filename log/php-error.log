@@ -1,0 +1,1908 @@
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:40 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:40 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:51 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:51 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:52 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:52 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:11:52 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\swbody.php on line 5
+[15-Mar-2017 09:11:52 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:11:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:11:52 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(C:\wamp\www\smartweb6\front\general\multilanguage.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\index.php on line 3
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(): Failed opening 'front/general/multilanguage.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\index.php on line 3
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(front/core/swdatabaseopen.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\index.php on line 4
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(): Failed opening 'front/core/swdatabaseopen.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\index.php on line 4
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(C:\wamp\www\smartweb6\front\general\multilanguage.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\index.php on line 3
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(): Failed opening 'front/general/multilanguage.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\index.php on line 3
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(front/core/swdatabaseopen.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\index.php on line 4
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(): Failed opening 'front/core/swdatabaseopen.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\index.php on line 4
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(front/general/multilanguage.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\index.php on line 3
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(): Failed opening 'front/general/multilanguage.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\index.php on line 3
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(front/core/swdatabaseopen.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\index.php on line 4
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(): Failed opening 'front/core/swdatabaseopen.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\index.php on line 4
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(front/general/multilanguage.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\index.php on line 3
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(): Failed opening 'front/general/multilanguage.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\index.php on line 3
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(front/core/swdatabaseopen.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\index.php on line 4
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Warning:  include(): Failed opening 'front/core/swdatabaseopen.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\index.php on line 4
+[15-Mar-2017 09:33:32 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:33:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:34:05 Europe/Paris] PHP Warning:  require_once(C:\wamp\www\smartweb6\front\general\MysqliDb.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swdatabaseopen.php on line 2
+[15-Mar-2017 09:34:05 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:34:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:34:05 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:4
+[15-Mar-2017 09:34:05 Europe/Paris] PHP Fatal error:  require_once(): Failed opening required 'front/general/MysqliDb.php' (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swdatabaseopen.php on line 2
+[15-Mar-2017 09:34:06 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:34:06 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:34:06 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:4
+[15-Mar-2017 09:34:26 Europe/Paris] PHP Warning:  require_once(frontMysqliDb.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swdatabaseopen.php on line 2
+[15-Mar-2017 09:34:26 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:34:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:34:26 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:4
+[15-Mar-2017 09:34:26 Europe/Paris] PHP Fatal error:  require_once(): Failed opening required 'frontMysqliDb.php' (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swdatabaseopen.php on line 2
+[15-Mar-2017 09:34:26 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:34:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:34:26 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:4
+[15-Mar-2017 09:35:14 Europe/Paris] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\wamp\www\smartweb6\front\swdatabaseopen.php on line 2
+[15-Mar-2017 09:35:14 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:35:14 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 09:35:29 Europe/Paris] PHP Parse error:  syntax error, unexpected '<' in C:\wamp\www\smartweb6\front\swdatabaseopen.php on line 2
+[15-Mar-2017 09:35:29 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 09:35:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:49:48 Europe/Paris] PHP Parse error:  syntax error, unexpected '{' in C:\wamp\www\smartweb6\front\swroot.php on line 16
+[15-Mar-2017 20:49:48 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:49:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:50:19 Europe/Paris] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL) in C:\wamp\www\smartweb6\front\swroot.php on line 16
+[15-Mar-2017 20:50:19 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:50:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:50:19 Europe/Paris] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL) in C:\wamp\www\smartweb6\front\swroot.php on line 16
+[15-Mar-2017 20:50:19 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:50:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:50:19 Europe/Paris] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL) in C:\wamp\www\smartweb6\front\swroot.php on line 16
+[15-Mar-2017 20:50:19 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:50:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:50:21 Europe/Paris] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL) in C:\wamp\www\smartweb6\front\swroot.php on line 16
+[15-Mar-2017 20:50:21 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:50:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:50:21 Europe/Paris] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL) in C:\wamp\www\smartweb6\front\swroot.php on line 16
+[15-Mar-2017 20:50:21 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:50:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:50:26 Europe/Paris] PHP Parse error:  syntax error, unexpected '<=' (T_IS_SMALLER_OR_EQUAL) in C:\wamp\www\smartweb6\front\swroot.php on line 16
+[15-Mar-2017 20:50:26 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:50:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:52:51 Europe/Paris] PHP Notice:  Undefined offset: 1 in C:\wamp\www\smartweb6\front\swroot.php on line 17
+[15-Mar-2017 20:52:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:52:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:52:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 20:53:14 Europe/Paris] PHP Notice:  Undefined offset: 1 in C:\wamp\www\smartweb6\front\swroot.php on line 18
+[15-Mar-2017 20:53:14 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:53:14 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:53:14 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 20:53:33 Europe/Paris] PHP Notice:  Undefined offset: 1 in C:\wamp\www\smartweb6\front\swroot.php on line 18
+[15-Mar-2017 20:53:33 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:53:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:53:34 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 20:54:02 Europe/Paris] PHP Notice:  Undefined offset: 1 in C:\wamp\www\smartweb6\front\swroot.php on line 18
+[15-Mar-2017 20:54:02 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:54:02 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:54:02 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 20:59:18 Europe/Paris] PHP Notice:  Undefined offset: 1 in C:\wamp\www\smartweb6\front\swroot.php on line 18
+[15-Mar-2017 20:59:18 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 20:59:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 20:59:18 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:04:11 Europe/Paris] PHP Fatal error:  Can't use function return value in write context in C:\wamp\www\smartweb6\front\swroot.php on line 14
+[15-Mar-2017 21:04:11 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:04:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:04:47 Europe/Paris] PHP Fatal error:  Can't use function return value in write context in C:\wamp\www\smartweb6\front\swroot.php on line 14
+[15-Mar-2017 21:04:47 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:04:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:05:15 Europe/Paris] PHP Fatal error:  Can't use function return value in write context in C:\wamp\www\smartweb6\front\swroot.php on line 14
+[15-Mar-2017 21:05:15 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:05:15 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:05:16 Europe/Paris] PHP Fatal error:  Can't use function return value in write context in C:\wamp\www\smartweb6\front\swroot.php on line 14
+[15-Mar-2017 21:05:16 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:05:16 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:05:46 Europe/Paris] PHP Notice:  Undefined offset: 1 in C:\wamp\www\smartweb6\front\swroot.php on line 18
+[15-Mar-2017 21:05:46 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:05:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:05:46 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:05:47 Europe/Paris] PHP Notice:  Undefined offset: 1 in C:\wamp\www\smartweb6\front\swroot.php on line 18
+[15-Mar-2017 21:05:47 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:05:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:05:47 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:05:48 Europe/Paris] PHP Notice:  Undefined offset: 1 in C:\wamp\www\smartweb6\front\swroot.php on line 18
+[15-Mar-2017 21:05:48 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:05:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:05:48 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:05:48 Europe/Paris] PHP Notice:  Undefined offset: 1 in C:\wamp\www\smartweb6\front\swroot.php on line 18
+[15-Mar-2017 21:05:48 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:05:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:05:48 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:05:48 Europe/Paris] PHP Notice:  Undefined offset: 1 in C:\wamp\www\smartweb6\front\swroot.php on line 18
+[15-Mar-2017 21:05:48 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:05:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:05:48 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:27 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:27 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Notice:  Array to string conversion in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:13:28 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:13:28 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:15:09 Europe/Paris] PHP Notice:  Undefined variable: arValues in C:\wamp\www\smartweb6\front\swroot.php on line 29
+[15-Mar-2017 21:15:09 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:15:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:15:09 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:15:09 Europe/Paris] PHP Notice:  Undefined variable: lang in C:\wamp\www\smartweb6\front\swroot.php on line 30
+[15-Mar-2017 21:15:09 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:15:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:15:09 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:50 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:50 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Warning:  include(ok.php): failed to open stream: No such file or directory in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Warning:  include(): Failed opening 'ok.php' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\smartweb6\front\swroot.php on line 11
+[15-Mar-2017 21:32:51 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 21:32:51 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 22:15:53 Europe/Paris] PHP Notice:  Undefined variable: lang in C:\wamp\www\smartweb6\front\swroot.php on line 33
+[15-Mar-2017 22:15:53 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 22:15:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 22:15:53 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 22:16:05 Europe/Paris] PHP Notice:  Undefined variable: arValues in C:\wamp\www\smartweb6\front\swroot.php on line 32
+[15-Mar-2017 22:16:05 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 22:16:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 22:16:05 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 22:16:05 Europe/Paris] PHP Notice:  Undefined variable: lang in C:\wamp\www\smartweb6\front\swroot.php on line 33
+[15-Mar-2017 22:16:05 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 22:16:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 22:16:05 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 22:44:11 Europe/Paris] PHP Fatal error:  Call to undefined function len() in C:\wamp\www\smartweb6\front\swroot.php on line 35
+[15-Mar-2017 22:44:11 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 22:44:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 22:44:11 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 22:44:25 Europe/Paris] PHP Notice:  Undefined variable: lang in C:\wamp\www\smartweb6\front\swroot.php on line 35
+[15-Mar-2017 22:44:25 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 22:44:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 22:44:25 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 22:50:05 Europe/Paris] PHP Parse error:  syntax error, unexpected '{' in C:\wamp\www\smartweb6\menu.php on line 21
+[15-Mar-2017 22:50:05 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 22:50:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 22:50:05 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[15-Mar-2017 23:17:36 Europe/Paris] PHP Notice:  Undefined offset: 2 in C:\wamp\www\smartweb6\front\swroot.php on line 22
+[15-Mar-2017 23:17:36 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:17:36 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:17:36 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 23:18:35 Europe/Paris] PHP Notice:  Undefined offset: 2 in C:\wamp\www\smartweb6\front\swroot.php on line 22
+[15-Mar-2017 23:18:35 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:18:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:18:35 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 23:25:05 Europe/Paris] PHP Notice:  Undefined offset: 2 in C:\wamp\www\smartweb6\front\swroot.php on line 22
+[15-Mar-2017 23:25:05 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:25:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:25:05 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 23:25:05 Europe/Paris] PHP Notice:  Undefined variable: ActualLang in C:\wamp\www\smartweb6\front\swroot.php on line 39
+[15-Mar-2017 23:25:05 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:25:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:25:05 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 23:25:05 Europe/Paris] PHP Notice:  Undefined variable: ActualLang in C:\wamp\www\smartweb6\front\swroot.php on line 39
+[15-Mar-2017 23:25:05 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:25:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:25:05 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 23:25:05 Europe/Paris] PHP Notice:  Undefined variable: ActualLang in C:\wamp\www\smartweb6\front\swroot.php on line 39
+[15-Mar-2017 23:25:05 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:25:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:25:05 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 23:25:39 Europe/Paris] PHP Notice:  Undefined variable: ActualLang in C:\wamp\www\smartweb6\front\swroot.php on line 39
+[15-Mar-2017 23:25:39 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:25:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:25:39 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 23:25:39 Europe/Paris] PHP Notice:  Undefined variable: ActualLang in C:\wamp\www\smartweb6\front\swroot.php on line 39
+[15-Mar-2017 23:25:39 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:25:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:25:39 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 23:25:39 Europe/Paris] PHP Notice:  Undefined variable: ActualLang in C:\wamp\www\smartweb6\front\swroot.php on line 39
+[15-Mar-2017 23:25:39 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:25:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:25:39 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[15-Mar-2017 23:28:56 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'mn_IDNews' in 'where clause' query: SELECT  * FROM news p LEFT JOIN news_data d on d.nw_IDNews=p.nw_IDNews AND d.nw_language = ?  WHERE  mn_IDNews = NULL' in C:\wamp\www\smartweb6\front\MysqliDb.php:1819
+Stack trace:
+#0 C:\wamp\www\smartweb6\front\MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 C:\wamp\www\smartweb6\front\MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp\www\smartweb6\newsdett.php(13): MysqliDb->get('news p')
+#3 C:\wamp\www\smartweb6\front\swbody.php(9): include_once('C:\\wamp\\www\\sma...')
+#4 C:\wamp\www\smartweb6\index.php(10): include('C:\\wamp\\www\\sma...')
+#5 {main}
+  thrown in C:\wamp\www\smartweb6\front\MysqliDb.php on line 1819
+[15-Mar-2017 23:29:11 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Column 'nw_IDNews' in where clause is ambiguous query: SELECT  * FROM news p LEFT JOIN news_data d on d.nw_IDNews=p.nw_IDNews AND d.nw_language = ?  WHERE  nw_IDNews = NULL' in C:\wamp\www\smartweb6\front\MysqliDb.php:1819
+Stack trace:
+#0 C:\wamp\www\smartweb6\front\MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 C:\wamp\www\smartweb6\front\MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp\www\smartweb6\newsdett.php(13): MysqliDb->get('news p')
+#3 C:\wamp\www\smartweb6\front\swbody.php(9): include_once('C:\\wamp\\www\\sma...')
+#4 C:\wamp\www\smartweb6\index.php(10): include('C:\\wamp\\www\\sma...')
+#5 {main}
+  thrown in C:\wamp\www\smartweb6\front\MysqliDb.php on line 1819
+[15-Mar-2017 23:29:12 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Column 'nw_IDNews' in where clause is ambiguous query: SELECT  * FROM news p LEFT JOIN news_data d on d.nw_IDNews=p.nw_IDNews AND d.nw_language = ?  WHERE  nw_IDNews = NULL' in C:\wamp\www\smartweb6\front\MysqliDb.php:1819
+Stack trace:
+#0 C:\wamp\www\smartweb6\front\MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 C:\wamp\www\smartweb6\front\MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp\www\smartweb6\newsdett.php(13): MysqliDb->get('news p')
+#3 C:\wamp\www\smartweb6\front\swbody.php(9): include_once('C:\\wamp\\www\\sma...')
+#4 C:\wamp\www\smartweb6\index.php(10): include('C:\\wamp\\www\\sma...')
+#5 {main}
+  thrown in C:\wamp\www\smartweb6\front\MysqliDb.php on line 1819
+[15-Mar-2017 23:42:52 Europe/Paris] PHP Notice:  Undefined variable: langYes in C:\wamp\www\smartweb6\front\funzioni.php on line 4
+[15-Mar-2017 23:42:52 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   3. include_once() C:\wamp\www\smartweb6\front\swbody.php:8
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   4. iflang() C:\wamp\www\smartweb6\newslist.php:42
+[15-Mar-2017 23:42:52 Europe/Paris] PHP Notice:  Undefined variable: langYes in C:\wamp\www\smartweb6\front\funzioni.php on line 4
+[15-Mar-2017 23:42:52 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   3. include_once() C:\wamp\www\smartweb6\front\swbody.php:8
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   4. iflang() C:\wamp\www\smartweb6\newslist.php:42
+[15-Mar-2017 23:42:52 Europe/Paris] PHP Notice:  Undefined variable: langYes in C:\wamp\www\smartweb6\front\funzioni.php on line 4
+[15-Mar-2017 23:42:52 Europe/Paris] PHP Stack trace:
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   3. include_once() C:\wamp\www\smartweb6\front\swbody.php:8
+[15-Mar-2017 23:42:52 Europe/Paris] PHP   4. iflang() C:\wamp\www\smartweb6\newslist.php:42
+[16-Mar-2017 08:42:37 Europe/Paris] PHP Notice:  Undefined variable: db in C:\wamp\www\smartweb6\front\swroot.php on line 36
+[16-Mar-2017 08:42:37 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 08:42:37 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 08:42:37 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[16-Mar-2017 08:42:37 Europe/Paris] PHP Fatal error:  Call to a member function join() on a non-object in C:\wamp\www\smartweb6\front\swroot.php on line 36
+[16-Mar-2017 08:42:37 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 08:42:37 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 08:42:37 Europe/Paris] PHP   2. rootView() C:\wamp\www\smartweb6\index.php:8
+[16-Mar-2017 08:43:17 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'p.cn_slug' in 'where clause' query: SELECT  * FROM contenuto p LEFT JOIN contenuto_data d on d.cn_IDContenuto=p.cn_IDContenuto AND d.cn_language = ?  WHERE  p.cn_slug = ?  AND p.cn_visibile = ? ' in C:\wamp\www\smartweb6\front\MysqliDb.php:1819
+Stack trace:
+#0 C:\wamp\www\smartweb6\front\MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 C:\wamp\www\smartweb6\front\MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp\www\smartweb6\front\swroot.php(40): MysqliDb->get('contenuto p')
+#3 C:\wamp\www\smartweb6\index.php(8): rootView()
+#4 {main}
+  thrown in C:\wamp\www\smartweb6\front\MysqliDb.php on line 1819
+[16-Mar-2017 08:49:03 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'p.nw_IDNews' in 'where clause' query: SELECT  * FROM contenuto p LEFT JOIN contenuto_data d on d.cn_IDContenuto=p.cn_IDContenuto AND d.cn_language = ?  WHERE  p.nw_IDNews = ? ' in C:\wamp\www\smartweb6\front\MysqliDb.php:1819
+Stack trace:
+#0 C:\wamp\www\smartweb6\front\MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 C:\wamp\www\smartweb6\front\MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp\www\smartweb6\pagina.php(15): MysqliDb->get('contenuto p')
+#3 C:\wamp\www\smartweb6\front\swbody.php(8): include_once('C:\\wamp\\www\\sma...')
+#4 C:\wamp\www\smartweb6\index.php(10): include('C:\\wamp\\www\\sma...')
+#5 {main}
+  thrown in C:\wamp\www\smartweb6\front\MysqliDb.php on line 1819
+[16-Mar-2017 17:20:18 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:18 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:19 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:19 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:19 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:19 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:20 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:20 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:20 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:20 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:20 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:20 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:20 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:21 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:21 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:21 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:21 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:23 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:23 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:23 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:23 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:23 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:23 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:23 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:23 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:23 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:23 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:23 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:23 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:23 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:24 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:24 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:24 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:24 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:24 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:24 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:24 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:24 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:24 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:24 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:24 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:25 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:25 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:25 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:25 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:25 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:25 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:25 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:25 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:25 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:25 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:25 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:25 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:25 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:25 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:25 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:27 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:27 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:20:36 Europe/Paris] PHP Parse error:  syntax error, unexpected '"pagina.php"' (T_CONSTANT_ENCAPSED_STRING) in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:20:36 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:20:36 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:20:36 Europe/Paris] PHP   2. include_once() C:\wamp\www\smartweb6\index.php:7
+[16-Mar-2017 17:21:36 Europe/Paris] PHP Notice:  Undefined variable: lang in C:\wamp\www\smartweb6\front\funzioni.php on line 14
+[16-Mar-2017 17:21:36 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:21:36 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:21:36 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:21:36 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:21:36 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:21:36 Europe/Paris] PHP Notice:  Undefined variable: lang in C:\wamp\www\smartweb6\front\funzioni.php on line 17
+[16-Mar-2017 17:21:36 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:21:36 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:21:36 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:21:36 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:21:36 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:21:36 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'p.cn_IDContenuto' in 'on clause' query: SELECT  * FROM menu p LEFT JOIN menu_data d on d.mn_IDMenu=p.mn_IDMenu AND d.mn_language= NULL LEFT JOIN contenuto cp on cp.cn_IDContenuto=p.cn_IDContenuto LEFT JOIN contenuto_data cd on cp.cn_IDContenuto=cd.cn_IDContenuto WHERE  p.mn_IDMenu = ? ' in C:\wamp\www\smartweb6\front\MysqliDb.php:1819
+Stack trace:
+#0 C:\wamp\www\smartweb6\front\MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 C:\wamp\www\smartweb6\front\MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp\www\smartweb6\front\funzioni.php(19): MysqliDb->get('menu p')
+#3 C:\wamp\www\smartweb6\menu.php(23): trovaContenutoDaMenu(97)
+#4 C:\wamp\www\smartweb6\front\swbody.php(2): include('C:\\wamp\\www\\sma...')
+#5 C:\wamp\www\smartweb6\index.php(10): include('C:\\wamp\\www\\sma...')
+#6 {main}
+  thrown in C:\wamp\www\smartweb6\front\MysqliDb.php on line 1819
+[16-Mar-2017 17:22:04 Europe/Paris] PHP Notice:  Undefined variable: meta in C:\wamp\www\smartweb6\front\funzioni.php on line 14
+[16-Mar-2017 17:22:04 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:22:04 Europe/Paris] PHP Notice:  Trying to get property of non-object in C:\wamp\www\smartweb6\front\funzioni.php on line 14
+[16-Mar-2017 17:22:04 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:22:04 Europe/Paris] PHP Notice:  Undefined variable: lang in C:\wamp\www\smartweb6\front\funzioni.php on line 17
+[16-Mar-2017 17:22:04 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:22:04 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:22:04 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'p.cn_IDContenuto' in 'on clause' query: SELECT  * FROM menu p LEFT JOIN menu_data d on d.mn_IDMenu=p.mn_IDMenu AND d.mn_language= NULL LEFT JOIN contenuto cp on cp.cn_IDContenuto=p.cn_IDContenuto LEFT JOIN contenuto_data cd on cp.cn_IDContenuto=cd.cn_IDContenuto WHERE  p.mn_IDMenu = ? ' in C:\wamp\www\smartweb6\front\MysqliDb.php:1819
+Stack trace:
+#0 C:\wamp\www\smartweb6\front\MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 C:\wamp\www\smartweb6\front\MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp\www\smartweb6\front\funzioni.php(19): MysqliDb->get('menu p')
+#3 C:\wamp\www\smartweb6\menu.php(23): trovaContenutoDaMenu(97)
+#4 C:\wamp\www\smartweb6\front\swbody.php(2): include('C:\\wamp\\www\\sma...')
+#5 C:\wamp\www\smartweb6\index.php(10): include('C:\\wamp\\www\\sma...')
+#6 {main}
+  thrown in C:\wamp\www\smartweb6\front\MysqliDb.php on line 1819
+[16-Mar-2017 17:22:11 Europe/Paris] PHP Notice:  Undefined variable: lang in C:\wamp\www\smartweb6\front\funzioni.php on line 17
+[16-Mar-2017 17:22:11 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:22:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:22:11 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:22:11 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:22:11 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:22:11 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'p.cn_IDContenuto' in 'on clause' query: SELECT  * FROM menu p LEFT JOIN menu_data d on d.mn_IDMenu=p.mn_IDMenu AND d.mn_language = ?  LEFT JOIN contenuto cp on cp.cn_IDContenuto=p.cn_IDContenuto LEFT JOIN contenuto_data cd on cp.cn_IDContenuto=cd.cn_IDContenuto WHERE  p.mn_IDMenu = ? ' in C:\wamp\www\smartweb6\front\MysqliDb.php:1819
+Stack trace:
+#0 C:\wamp\www\smartweb6\front\MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 C:\wamp\www\smartweb6\front\MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp\www\smartweb6\front\funzioni.php(19): MysqliDb->get('menu p')
+#3 C:\wamp\www\smartweb6\menu.php(23): trovaContenutoDaMenu(97)
+#4 C:\wamp\www\smartweb6\front\swbody.php(2): include('C:\\wamp\\www\\sma...')
+#5 C:\wamp\www\smartweb6\index.php(10): include('C:\\wamp\\www\\sma...')
+#6 {main}
+  thrown in C:\wamp\www\smartweb6\front\MysqliDb.php on line 1819
+[16-Mar-2017 17:22:20 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'p.cn_IDContenuto' in 'on clause' query: SELECT  * FROM menu p LEFT JOIN menu_data d on d.mn_IDMenu=p.mn_IDMenu AND d.mn_language = ?  LEFT JOIN contenuto cp on cp.cn_IDContenuto=p.cn_IDContenuto LEFT JOIN contenuto_data cd on cp.cn_IDContenuto=cd.cn_IDContenuto WHERE  p.mn_IDMenu = ? ' in C:\wamp\www\smartweb6\front\MysqliDb.php:1819
+Stack trace:
+#0 C:\wamp\www\smartweb6\front\MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 C:\wamp\www\smartweb6\front\MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp\www\smartweb6\front\funzioni.php(19): MysqliDb->get('menu p')
+#3 C:\wamp\www\smartweb6\menu.php(23): trovaContenutoDaMenu(97)
+#4 C:\wamp\www\smartweb6\front\swbody.php(2): include('C:\\wamp\\www\\sma...')
+#5 C:\wamp\www\smartweb6\index.php(10): include('C:\\wamp\\www\\sma...')
+#6 {main}
+  thrown in C:\wamp\www\smartweb6\front\MysqliDb.php on line 1819
+[16-Mar-2017 17:23:45 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:45 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:45 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:45 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:45 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:45 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:46 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:46 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined variable: config in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:47 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:47 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:56 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Notice:  Undefined index: cd.cn_IDContenuto in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:23:57 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:23:57 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:18 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 23
+[16-Mar-2017 17:24:19 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:24:19 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:09 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:09 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:09 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:09 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:09 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:09 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:26:09 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:09 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:09 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:09 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:09 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:45
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:10 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:10 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:11 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:11 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:11 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:11 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[16-Mar-2017 17:26:11 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:11 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:34
+[16-Mar-2017 17:26:11 Europe/Paris] PHP Notice:  Undefined index: cd.cn_slug in C:\wamp\www\smartweb6\front\funzioni.php on line 25
+[16-Mar-2017 17:26:11 Europe/Paris] PHP Stack trace:
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   2. include() C:\wamp\www\smartweb6\index.php:10
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   3. include() C:\wamp\www\smartweb6\front\swbody.php:2
+[16-Mar-2017 17:26:11 Europe/Paris] PHP   4. trovaContenutoDaMenu() C:\wamp\www\smartweb6\menu.php:23
+[17-Mar-2017 14:53:21 Europe/Paris] PHP Parse error:  syntax error, unexpected ')', expecting '(' in C:\wamp\www\smartweb6\front\swroot.php on line 21
+[17-Mar-2017 14:53:22 Europe/Paris] PHP Stack trace:
+[17-Mar-2017 14:53:22 Europe/Paris] PHP   1. {main}() C:\wamp\www\smartweb6\index.php:0
+[21-Mar-2017 08:05:56 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Unknown column 'nw_inevidenza' in 'where clause' query: SELECT  * FROM news p LEFT JOIN news_data d on d.nw_IDNews=p.nw_IDNews AND d.nw_language = ?  WHERE  nw_inevidenza = ?  in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php:1819
+Stack trace:
+#0 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 /Applications/MAMP/htdocs/smartweb6/homepage.php(88): MysqliDb->get('news p')
+#3 /Applications/MAMP/htdocs/smartweb6/front/swbody.php(8): include_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/smartweb6/index.php(10): include('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php on line 1819
+[21-Mar-2017 08:06:07 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Unknown column 'nw_inevidenza' in 'where clause' query: SELECT  * FROM news p LEFT JOIN news_data d on d.nw_IDNews=p.nw_IDNews AND d.nw_language = ?  WHERE  nw_inevidenza = ?  in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php:1819
+Stack trace:
+#0 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#1 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#2 /Applications/MAMP/htdocs/smartweb6/homepage.php(88): MysqliDb->get('news p')
+#3 /Applications/MAMP/htdocs/smartweb6/front/swbody.php(8): include_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/smartweb6/index.php(10): include('/Applications/M...')
+#5 {main}
+  thrown in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php on line 1819
+[21-Mar-2017 14:56:56 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php on line 281
+[21-Mar-2017 14:56:56 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'admin'@'localhost' (using password: YES)' in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(300): MysqliDb->connect()
+#1 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(1815): MysqliDb->mysqli()
+#2 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#3 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#4 /Applications/MAMP/htdocs/smartweb6/menu.php(18): MysqliDb->get('menu p')
+#5 /Applications/MAMP/htdocs/smartweb6/front/swbody.php(2): include('/Applications/M...')
+#6 /Applications/MAMP/htdocs/smartweb6/index.php(10): include('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php on line 284
+[21-Mar-2017 14:57:35 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php on line 281
+[21-Mar-2017 14:57:35 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'admin'@'localhost' (using password: YES)' in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(300): MysqliDb->connect()
+#1 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(1815): MysqliDb->mysqli()
+#2 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#3 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#4 /Applications/MAMP/htdocs/smartweb6/menu.php(18): MysqliDb->get('menu p')
+#5 /Applications/MAMP/htdocs/smartweb6/front/swbody.php(2): include('/Applications/M...')
+#6 /Applications/MAMP/htdocs/smartweb6/index.php(10): include('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php on line 284
+[21-Mar-2017 14:57:36 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php on line 281
+[21-Mar-2017 14:57:36 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'admin'@'localhost' (using password: YES)' in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(300): MysqliDb->connect()
+#1 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(1815): MysqliDb->mysqli()
+#2 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#3 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#4 /Applications/MAMP/htdocs/smartweb6/menu.php(18): MysqliDb->get('menu p')
+#5 /Applications/MAMP/htdocs/smartweb6/front/swbody.php(2): include('/Applications/M...')
+#6 /Applications/MAMP/htdocs/smartweb6/index.php(10): include('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php on line 284
+[21-Mar-2017 14:57:57 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php on line 281
+[21-Mar-2017 14:57:57 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Connect Error 1045: Access denied for user 'admin'@'localhost' (using password: YES)' in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(300): MysqliDb->connect()
+#1 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(1815): MysqliDb->mysqli()
+#2 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(1427): MysqliDb->_prepareQuery()
+#3 /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php(600): MysqliDb->_buildQuery(NULL)
+#4 /Applications/MAMP/htdocs/smartweb6/menu.php(18): MysqliDb->get('menu p')
+#5 /Applications/MAMP/htdocs/smartweb6/front/swbody.php(2): include('/Applications/M...')
+#6 /Applications/MAMP/htdocs/smartweb6/index.php(10): include('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/smartweb6/front/MysqliDb.php on line 284

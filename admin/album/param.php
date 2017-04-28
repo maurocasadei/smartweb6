@@ -1,0 +1,10 @@
+<?php
+	$nometabella="album";
+	$titolo="albumtitolo";
+	$sottotitolo="albumsottotitolo";
+	$campoID="al_IDAlbum";
+	$prefix="al_";
+	$campoorderby="al_ordine";
+  $insertmodal=true;
+  $nomeforeignkey="mainlist";
+?>

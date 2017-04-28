@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-editable",
+  "_cacheHeaders": {
+    "ETag": "W/\"eaef0de969cca4b6990c3472450d4cd6bde456f5\"",
+    "Content-Type": "text/css;charset=utf-8"
+  },
+  "_release": "e-tag:W/\"eaef0de",
+  "main": "index.css",
+  "_source": "http://rawgit.com/vitalets/x-editable/master/dist/bootstrap3-editable/css/bootstrap-editable.css",
+  "_target": "*",
+  "_originalSource": "http://rawgit.com/vitalets/x-editable/master/dist/bootstrap3-editable/css/bootstrap-editable.css",
+  "_direct": true
+}
